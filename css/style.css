@@ -644,6 +644,13 @@ p{
 	}
 }
 
+@media (max-width: 420px) {
+	.contact-box div {
+		width: 210px;
+		margin-left: -50px;
+	}
+}
+
 
 /* Landscape Phone */
 @media all and (min-width: 400px) {
